@@ -1,1 +1,1 @@
-[![j-][avatar.jpg]][avatar.jpg]
+[![j-](avatar.jpg)](avatar.jpg)
